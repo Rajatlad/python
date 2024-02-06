@@ -56,3 +56,21 @@ family={
 }
 print(family)
 print(family["child1"]["name"])
+
+
+
+
+family={
+    "child1":{
+        "name":"rajat",
+        "age":"21",
+    },
+    "child2":{
+        "name":"bob",
+        "age":"20",
+
+    }
+}
+print(family)
+print(family["child1"]["name"])
+
